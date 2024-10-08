@@ -1,0 +1,16 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.hero {
+    background-image: url('hero-bg.jpg');
+    background-size: cover;
+    padding: 150px 0;
+    color: white;
+    text-align: center;
+}
+
+.btn-primary {
+    background-color: #28a745;
+    border: none;
+}
