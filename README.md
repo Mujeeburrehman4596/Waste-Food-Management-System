@@ -11,9 +11,6 @@ The Waste Food Management System is designed to tackle the issue of food waste b
 
 ## Technologies Used
 - **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Deployment:** Heroku / AWS (or any other service)
 
 ## Installation
 
